@@ -50,6 +50,7 @@ gem "sassc-rails"
 
 gem "cssbundling-rails"
 gem "jsbundling-rails"
+gem 'devise', '~> 4.8', '>= 4.8.1'
 
 
 group :development, :test do
